@@ -1,6 +1,6 @@
 {
-    "name": "cartera",
-    "short_name": "cartera",
+    "name": "",
+    "short_name": "",
     "icons": [
         {
             "src": "/assets/images/android-chrome-192x192.png",
@@ -13,7 +13,7 @@
             "type": "image/png"
         }
     ],
-    "theme_color": "#180303",
-    "background_color": "#180303",
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
     "display": "standalone"
 }
