@@ -3,7 +3,7 @@ layout: single
 title:  "What I learned from my first FAANG interview"
 type: posts
 permalink: /posts/first-faang-interview
-excerpt: "How I failed a Microsoft interview"
+excerpt: "How I got rejected by Microsoft"
 tags: interview faang
 ---
 
