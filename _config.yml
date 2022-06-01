@@ -35,6 +35,8 @@ timezone: America/New_York
 include:
   - _pages
 
+og_image: "/assets/images/bio-photo.jpeg"
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
