@@ -35,7 +35,7 @@ timezone: America/New_York
 include:
   - _pages
 
-og_image: "/assets/images/bio-photo.jpeg"
+og_image: "/assets/images/android-chrome-192x192.png"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
