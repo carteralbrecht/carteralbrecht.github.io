@@ -5,4 +5,4 @@ sitemap: false
 permalink: /resume/
 author_profile: TRUE
 ---
-<embed width="375" height="500" src="/assets/download/CarterAlbrechtResume.pdf" type="application/pdf" />
+<img style='height: 100%; width: 100%; object-fit: contain' src="/assets/download/CarterAlbrechtResume.png">
