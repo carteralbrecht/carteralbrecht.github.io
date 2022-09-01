@@ -105,4 +105,10 @@ tag_archive:
   type: liquid
   path: /tags/
 
+footer_scripts:
+ - https://unpkg.com/cursor-effects@latest/dist/browser.js
+ - /assets/cursor/cursor.js
+ - /assets/js/main.min.js
+
+
 github: [metadata]
