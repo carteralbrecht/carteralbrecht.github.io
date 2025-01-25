@@ -5,8 +5,6 @@ _site
 .bundle
 .sass-cache
 Gemfile.lock
-node_modules
-package.json
 *.gem
 *.gemspec
 .jekyll-cache
